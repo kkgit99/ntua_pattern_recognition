@@ -11,3 +11,6 @@ Visual digit recognition (0 to 9) using various classifiers:
 - Voting Classifier
 - Bagging Classifier
 - MLP Classifier
+
+Evaluation Metric
+- Accuracy
